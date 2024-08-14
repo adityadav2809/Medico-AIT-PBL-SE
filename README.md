@@ -27,5 +27,3 @@ Features:
 ## Website:
 https://medico-ait-pbl.github.io/medico/
 
-## Presentation:
-https://aitpuneedu-my.sharepoint.com/:p:/g/personal/akashdeepsingh_21076_aitpune_edu_in/EX4bWh0LNzBDpJozhUqGprgBxX-rQhMTg3aa9iLo0r0-ng?e=wYfNSu
